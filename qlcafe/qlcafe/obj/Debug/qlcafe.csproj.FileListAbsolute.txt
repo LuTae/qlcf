@@ -1,0 +1,9 @@
+c:\users\lucas\documents\visual studio 2015\Projects\qlcafe\qlcafe\bin\Debug\qlcafe.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\qlcafe\qlcafe\bin\Debug\qlcafe.exe
+c:\users\lucas\documents\visual studio 2015\Projects\qlcafe\qlcafe\bin\Debug\qlcafe.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\qlcafe\qlcafe\obj\Debug\qlcafe.Properties.Resources.resources
+c:\users\lucas\documents\visual studio 2015\Projects\qlcafe\qlcafe\obj\Debug\qlcafe.Form1.resources
+c:\users\lucas\documents\visual studio 2015\Projects\qlcafe\qlcafe\obj\Debug\qlcafe.csproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2015\Projects\qlcafe\qlcafe\obj\Debug\qlcafe.exe
+c:\users\lucas\documents\visual studio 2015\Projects\qlcafe\qlcafe\obj\Debug\qlcafe.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\qlcafe\qlcafe\obj\Debug\qlcafe.view.Frmmain.resources
